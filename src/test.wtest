@@ -1,0 +1,52 @@
+import alumno.*
+
+describe "test"{
+
+	var juan
+	var matematicaI
+	var matematicaII
+	var spd
+	var arquitecturaPc
+	var fisica
+	var quimica
+	var lengua
+	var algoI
+	var algoII
+	var algoIII
+	fixture {
+		nombre
+	var nota = 0
+	var property daCredito
+	var requiereCredito
+	var anio
+		//----------MATERIA--------//
+		matematicaI = new Materia(nombre=matematicaI, daCredito = 5, )
+		
+		
+		
+		
+		//----------CARRERA--------//
+		
+		
+		
+		
+		
+		
+		//----------ALUMNO--------//
+		juan = new Alumno(nombre=juan)
+		
+		juan.agregarMateriasAprobadas(materia)
+		juan.agregarMateriasAprobadas(materia)
+		juan.agregarMateriasAprobadas(materia)
+		
+	}
+
+	test "si un estudiante puede cursar una materia" {
+		
+		
+		assert.that(true)
+	}
+
+}
+
+
